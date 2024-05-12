@@ -4,7 +4,7 @@
 This is a currency converter web application created using HTML, CSS, and JavaScript. It enables users to convert between different currencies based on real-time exchange rates. Flag images are updated dynamically using FlagsApi.
 
 ## Preview
-
+![img](https://github.com/sujitkumarmalik/Currency-Converter/blob/main/Screenshot%202024-05-12%20124037.png)
 ## Features
 
 - Converts between various currencies using real-time exchange rates.
