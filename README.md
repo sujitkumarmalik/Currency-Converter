@@ -5,6 +5,8 @@ This is a currency converter web application created using HTML, CSS, and JavaSc
 
 ## Preview
 ![img](https://github.com/sujitkumarmalik/Currency-Converter/blob/main/Screenshot%202024-05-12%20124037.png)
+After
+![img2](https://github.com/sujitkumarmalik/Currency-Converter/blob/main/Screenshot%202024-05-12%20124102.png)
 ## Features
 
 - Converts between various currencies using real-time exchange rates.
